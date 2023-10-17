@@ -2,7 +2,7 @@
 
 ### Que es Internet Explorer?
 
-Internet Explorer fue un navegador web desarrollado por Microsoft, pero fue reemplazado por Microsoft Edge debido a problemas de seguridad y rendimiento. Fue descontinuado en 2021.
+**Internet Explorer** fue un navegador web desarrollado por _Microsoft_, pero fue reemplazado por **Microsoft Edge** debido a problemas de seguridad y rendimiento. Fue descontinuado en 2021.
 
 ### Como fue antiguamente?
 
@@ -15,8 +15,8 @@ Internet Explorer 4.0 fue un hito importante en la evolución de los navegadores
 
 ### Por que fue tan popular?
 
-Internet Explorer dominó el mercado de navegadores web en los años 90 debido a su inclusión en Windows, estrategia de marketing, integración con el sistema operativo y falta de competidores sólidos en ese momento.
+Internet Explorer **dominó el mercado de navegadores web** en los años 90 debido a su inclusión en Windows, estrategia de marketing, integración con el sistema operativo y falta de competidores sólidos en ese momento.
 
 ### Cual fue el navegador más popular antes de que IE se integrase en Windows?
 
-Antes de que Internet Explorer se convirtiera en el navegador web más popular, Netscape Navigator era el navegador más ampliamente utilizado en la década de 1990.
+Antes de que Internet Explorer se convirtiera en el navegador web más popular, **Netscape Navigator** era el navegador más ampliamente utilizado en la década de 1990.
